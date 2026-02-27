@@ -24,6 +24,7 @@ Have a good resource that is not here? Make a pull request!
 - [An episode of the AI Sweden podcast on productionizing AI in healthcare with guests from Unity Health](https://open.spotify.com/episode/00UdMfRTBzYFufQIhY2RiY?si=d8a1087f5b60485f)
 
 # Repositories
+- [Bloodboy](https://github.com/mizoloff/bloodboy) is a privacy-first browser-based blood test tracker with local storage.
 - [Monai](https://github.com/Project-MONAI) is a toolkit for medical image analysis developed by NVIDIA and King’s College London
 - [Cyclops](https://github.com/VectorInstitute/cyclops) is a toolkit for research and development of AI models in healthcare developed by Vector Institute
 - [NHS R community](https://github.com/nhs-r-community) 
