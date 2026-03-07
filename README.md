@@ -31,6 +31,7 @@ Have a good resource that is not here? Make a pull request!
 - [NHS Python community](https://github.com/nhs-pycom) 
 - [NHSX](https://github.com/nhsx) 
 - [Clinical Scientific Computing at Guy's and St Thomas' NHS Foundation Trust](https://github.com/GSTT-CSC) 
+- [Bloodboy](https://github.com/mizoloff/bloodboy) is a privacy-first browser-based blood test tracker with local storage. Helps track and visualize longevity biomarkers without third-party accounts.
 
 # Open source datasets
 - [PhysioNet](https://physionet.org/about/database/) contains a large number of datasets with physiological origin. One of the more famous datasets there is [MIMIC-IV](https://physionet.org/content/mimiciv/2.2/) dataset on intensive care visits
