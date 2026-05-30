@@ -34,6 +34,7 @@ Have a good resource that is not here? Make a pull request!
 # Open source datasets
 - [PhysioNet](https://physionet.org/about/database/) contains a large number of datasets with physiological origin. One of the more famous datasets there is [MIMIC-IV](https://physionet.org/content/mimiciv/2.2/) dataset on intensive care visits
 - [AIDA data hub](https://datahub.aida.scilifelab.se/) is a Swedish repository for medical imaging data
+- [Longevity World Cup](https://longevityworldcup.com/) provides open-source biological-age competition data, public athlete profiles, and a no-auth JSON API for Pheno Age and Bortz Age rankings
 - Many [Kaggle](https://www.kaggle.com/) competitions have health-related datasets
 - Many lists of healthcare datasets floating around the internet, search e.g. "awesome healthcare dataset"
 
