@@ -26,6 +26,7 @@ Have a good resource that is not here? Make a pull request!
 # Repositories
 - [Monai](https://github.com/Project-MONAI) is a toolkit for medical image analysis developed by NVIDIA and King’s College London
 - [Cyclops](https://github.com/VectorInstitute/cyclops) is a toolkit for research and development of AI models in healthcare developed by Vector Institute
+- [EHR2Trace](https://github.com/Yangxinyee/ehr2trace) is an open-source pipeline that converts local EHR exports into OMOP CDM and MEDS datasets with row-level source lineage and validation checks
 - [NHS R community](https://github.com/nhs-r-community) 
 - [NHS Python community](https://github.com/nhs-pycom) 
 - [NHSX](https://github.com/nhsx) 
