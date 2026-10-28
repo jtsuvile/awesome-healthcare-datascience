@@ -30,6 +30,7 @@ Have a good resource that is not here? Make a pull request!
 - [NHS Python community](https://github.com/nhs-pycom) 
 - [NHSX](https://github.com/nhsx) 
 - [Clinical Scientific Computing at Guy's and St Thomas' NHS Foundation Trust](https://github.com/GSTT-CSC) 
+- [OMOPHub](https://github.com/OMOPHub) has open-source Python, R and Node SDKs and an MCP server for searching and mapping the OHDSI OMOP standardized vocabularies (SNOMED CT, ICD-10, LOINC, RxNorm) through an API
 
 # Open source datasets
 - [PhysioNet](https://physionet.org/about/database/) contains a large number of datasets with physiological origin. One of the more famous datasets there is [MIMIC-IV](https://physionet.org/content/mimiciv/2.2/) dataset on intensive care visits
