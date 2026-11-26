@@ -35,6 +35,8 @@ Have a good resource that is not here? Make a pull request!
 - [PhysioNet](https://physionet.org/about/database/) contains a large number of datasets with physiological origin. One of the more famous datasets there is [MIMIC-IV](https://physionet.org/content/mimiciv/2.2/) dataset on intensive care visits
 - [AIDA data hub](https://datahub.aida.scilifelab.se/) is a Swedish repository for medical imaging data
 - [Longevity World Cup](https://longevityworldcup.com/) provides open-source biological-age competition data, public athlete profiles, and a no-auth JSON API for Pheno Age and Bortz Age rankings
+- [Lab Reference Ranges](https://github.com/caraulani/lab-reference-ranges) is an open, sourced snapshot of 510 adult reference intervals for 52 blood analytes from 10 hospital laboratories in the UK, Germany, New Zealand and the US and from two harmonisation bodies (UK Pathology Harmony and the Nordic Reference Interval Project, NORIP), for comparing how the intervals printed on lab reports differ between laboratories
+- [NHANES Lab Percentiles](https://github.com/caraulani/nhanes-lab-percentiles) gives survey-weighted US population percentiles by sex and age for 479 blood and urine laboratory analytes measured in NHANES 2011-2023, with design-based 95% confidence limits for the 2.5th, 50th and 97.5th percentiles
 - Many [Kaggle](https://www.kaggle.com/) competitions have health-related datasets
 - Many lists of healthcare datasets floating around the internet, search e.g. "awesome healthcare dataset"
 
